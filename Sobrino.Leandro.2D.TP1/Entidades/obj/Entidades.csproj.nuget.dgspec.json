@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Leit012\\Desktop\\Trabajos practicos\\Sobrino.Leandro.2D.TP1\\Entidades\\Entidades.csproj": {}
+    "C:\\Users\\Leit012\\Desktop\\Trabajos practicos\\tps_laboratorio_ii\\Sobrino.Leandro.2D.TP1\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Leit012\\Desktop\\Trabajos practicos\\Sobrino.Leandro.2D.TP1\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\Leit012\\Desktop\\Trabajos practicos\\tps_laboratorio_ii\\Sobrino.Leandro.2D.TP1\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Leit012\\Desktop\\Trabajos practicos\\Sobrino.Leandro.2D.TP1\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\Leit012\\Desktop\\Trabajos practicos\\tps_laboratorio_ii\\Sobrino.Leandro.2D.TP1\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\Leit012\\Desktop\\Trabajos practicos\\Sobrino.Leandro.2D.TP1\\Entidades\\Entidades.csproj",
+        "projectPath": "C:\\Users\\Leit012\\Desktop\\Trabajos practicos\\tps_laboratorio_ii\\Sobrino.Leandro.2D.TP1\\Entidades\\Entidades.csproj",
         "packagesPath": "C:\\Users\\Leit012\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Leit012\\Desktop\\Trabajos practicos\\Sobrino.Leandro.2D.TP1\\Entidades\\obj\\",
+        "outputPath": "C:\\Users\\Leit012\\Desktop\\Trabajos practicos\\tps_laboratorio_ii\\Sobrino.Leandro.2D.TP1\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Leit012\\AppData\\Roaming\\NuGet\\NuGet.Config",
