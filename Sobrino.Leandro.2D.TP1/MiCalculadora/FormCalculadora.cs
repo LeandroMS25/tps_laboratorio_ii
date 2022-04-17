@@ -96,7 +96,9 @@ namespace MiCalculadora
         /// <param name="e"></param>
         private void btnConvertirABinario_Click(object sender, EventArgs e)
         {
+            string valorDecimal = lblResultado.Text;
             lblResultado.Text = num.DecimalBinario(lblResultado.Text);
+            lstOperaciones.AppendText($"{valorDecimal} = {lblResultado.Text}\n");
             btnConvertirADecimal.Enabled = true;
             btnConvertirABinario.Enabled = false;
         }
@@ -107,7 +109,9 @@ namespace MiCalculadora
         /// <param name="e"></param>
         private void btnConvertirADecimal_Click(object sender, EventArgs e)
         {
+            string valorBinario = lblResultado.Text;
             lblResultado.Text = num.BinarioDecimal(lblResultado.Text);
+            lstOperaciones.AppendText($"{valorBinario} = {lblResultado.Text}\n");
             btnConvertirADecimal.Enabled = false;
             btnConvertirABinario.Enabled = true;
         }
@@ -127,7 +131,7 @@ namespace MiCalculadora
         /// <param name="e"></param>
         private void FormCalculadora_FormClosing(object sender, FormClosingEventArgs e)
         {
-            if (MessageBox.Show("¿Desea salir de la aplicacion?", "Mensaje de salida", MessageBoxButtons.YesNo) != DialogResult.Yes)
+            if (MessageBox.Show("¿Desea salir de la aplicacion?", "Salir", MessageBoxButtons.YesNo, MessageBoxIcon.Question) != DialogResult.Yes)
             {
                 e.Cancel = true;
             }

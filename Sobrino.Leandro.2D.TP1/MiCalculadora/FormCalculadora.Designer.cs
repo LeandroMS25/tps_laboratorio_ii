@@ -63,6 +63,7 @@
             this.cmbOperador.Location = new System.Drawing.Point(178, 63);
             this.cmbOperador.Name = "cmbOperador";
             this.cmbOperador.Size = new System.Drawing.Size(66, 37);
+            this.cmbOperador.SelectedIndex = 0;
             this.cmbOperador.TabIndex = 1;
             // 
             // txtNumero2
@@ -131,12 +132,11 @@
             // 
             // lblResultado
             // 
-            this.lblResultado.AutoSize = true;
             this.lblResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.lblResultado.Location = new System.Drawing.Point(12, 24);
+            this.lblResultado.Location = new System.Drawing.Point(12, 25);
             this.lblResultado.Name = "lblResultado";
             this.lblResultado.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.lblResultado.Size = new System.Drawing.Size(24, 25);
+            this.lblResultado.Size = new System.Drawing.Size(402, 25);
             this.lblResultado.TabIndex = 8;
             this.lblResultado.Text = "0";
             this.lblResultado.TextAlign = System.Drawing.ContentAlignment.MiddleRight;

@@ -10,3 +10,15 @@ C:\Users\Leit012\Desktop\Trabajos practicos\Sobrino.Leandro.2D.TP1\Entidades\obj
 C:\Users\Leit012\Desktop\Trabajos practicos\Sobrino.Leandro.2D.TP1\Entidades\obj\Debug\net5.0\refint\Entidades.dll
 C:\Users\Leit012\Desktop\Trabajos practicos\Sobrino.Leandro.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.pdb
 C:\Users\Leit012\Desktop\Trabajos practicos\Sobrino.Leandro.2D.TP1\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\Leit012\Desktop\Trabajos practicos\tps_laboratorio_ii\Sobrino.Leandro.2D.TP1\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\Leit012\Desktop\Trabajos practicos\tps_laboratorio_ii\Sobrino.Leandro.2D.TP1\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\Leit012\Desktop\Trabajos practicos\tps_laboratorio_ii\Sobrino.Leandro.2D.TP1\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\Leit012\Desktop\Trabajos practicos\tps_laboratorio_ii\Sobrino.Leandro.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.AssemblyReference.cache
+C:\Users\Leit012\Desktop\Trabajos practicos\tps_laboratorio_ii\Sobrino.Leandro.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leit012\Desktop\Trabajos practicos\tps_laboratorio_ii\Sobrino.Leandro.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Leit012\Desktop\Trabajos practicos\tps_laboratorio_ii\Sobrino.Leandro.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\Leit012\Desktop\Trabajos practicos\tps_laboratorio_ii\Sobrino.Leandro.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Leit012\Desktop\Trabajos practicos\tps_laboratorio_ii\Sobrino.Leandro.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\Leit012\Desktop\Trabajos practicos\tps_laboratorio_ii\Sobrino.Leandro.2D.TP1\Entidades\obj\Debug\net5.0\refint\Entidades.dll
+C:\Users\Leit012\Desktop\Trabajos practicos\tps_laboratorio_ii\Sobrino.Leandro.2D.TP1\Entidades\obj\Debug\net5.0\Entidades.pdb
+C:\Users\Leit012\Desktop\Trabajos practicos\tps_laboratorio_ii\Sobrino.Leandro.2D.TP1\Entidades\obj\Debug\net5.0\ref\Entidades.dll
